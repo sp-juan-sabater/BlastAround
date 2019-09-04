@@ -33,12 +33,6 @@ MonoBehaviour:
       networkSync: 0
       value: {r: 0, g: 0, b: 0, a: 1}
     - useVariable: 1
-      name: Color_2
-      tooltip: 
-      showInInspector: 0
-      networkSync: 0
-      value: {r: 0, g: 0, b: 0, a: 1}
-    - useVariable: 1
       name: Color_02
       tooltip: 
       showInInspector: 0
@@ -114,7 +108,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   events:
   - SubstractCube
   - CameraShake
